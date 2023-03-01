@@ -1,1 +1,1 @@
-All content are saved as issues.
+All content is saved as issues.
